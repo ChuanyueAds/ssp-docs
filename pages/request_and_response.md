@@ -106,6 +106,9 @@ Request 请求是广告位请求广告的入口，由 App 按本文档中规定 
 | device_dpi         | int     | 否   | 像素密度，单位：每英寸像素个数                               |
 | device_width       | int     | 是   | 水平分辨率，单位：像素                                      |
 | device_height      | int     | 是   | 纵向分辨率，单位：像素                                      |
+| device_boot_mark      | string     | 否   | 阿里系客户需要的反作弊字段                                      |
+| device_update_mark      | string     |否   | 阿里系客户需要的反作弊字段                                     |
+
                             
 
 
