@@ -134,6 +134,9 @@ curl -H 'Content-Type: application/x-www-form-urlencoded;charset=utf-8' -X POST 
         ],
         "deep_link_action":[
             "http://saad.ms.zhangyue.net/track?rid=1e7lEa8M15hxT05FdyM0dgpuFJm&aid=10049&pid=10056&sid=101395&mid=10019&pri=2&advid=quyuansu&cid=4fbe3e5760b11cb79409f0ca1d84f3e6&at=1&st=3&as=10002&fi=0&pi=0&os=1&ip=117.179.139.137&usr=j17968017&did=860708036919063&idfa=&oaid=7fcddf92-b7cc-b8c0-3bff-d7cef9f6b0fc&imei=860708036919063&andid=a15f56f55b3bfcc3&mac=BC%3A75%3A74%3A50%3ABC%3A43&appid=10019&pkg=com.chaozh.iReader.dj&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0.1%3B+KIW-TL00+Build%2FHONORKIW-TL00%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F55.0.2883.91+Mobile+Safari%2F537.36&make=HUAWEI&model=KIW-TL00&carrier=0&net=2&ts=193680400&codeid=&iv=&vc=&apf=&ov=&pn=&pv=&chid=&nk=&etype=dlink&action=__DLINK__"
+        ],
+	"deeplink_trackers":[
+            "http://saad.ms.zhangyue.net/track?rid=1e7lEa8M15hxT05FdyM0dgpuFJm&aid=10049&pid=10056&sid=101395&mid=10019&pri=2&advid=quyuansu&cid=4fbe3e5760b11cb79409f0ca1d84f3e6&at=1&st=3&as=10002&fi=0&pi=0&os=1&ip=117.179.139.137&usr=j17968017&did=860708036919063&idfa=&oaid=7fcddf92-b7cc-b8c0-3bff-d7cef9f6b0fc&imei=860708036919063&andid=a15f56f55b3bfcc3&mac=BC%3A75%3A74%3A50%3ABC%3A43&appid=10019&pkg=com.chaozh.iReader.dj&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0.1%3B+KIW-TL00+Build%2FHONORKIW-TL00%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F55.0.2883.91+Mobile+Safari%2F537.36&make=HUAWEI&model=KIW-TL00&carrier=0&net=2&ts=193680400&codeid=&iv=&vc=&apf=&ov=&pn=&pv=&chid=&nk=&etype=dlink&action=__DLINK__"
         ]
     }
 }
