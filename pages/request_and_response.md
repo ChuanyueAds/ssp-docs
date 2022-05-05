@@ -88,6 +88,7 @@ Request 请求是广告位请求广告的入口，由 App 按本文档中规定 
 | device_model      | string  | 是   | 设备型号，例如 “iphoneA1530” "iPhone8"                                      |
 | device_brand      | string  | 否   | 手机品牌，例如：“MI4”                                             |
 | device_imei       | string  | 否   | IMEI 码。iOS 没有 (cdma 手机请传 meid 码)                         |
+| device_imei_md5   | string  | 否   | IMEI的md5值，imei和imei_md5必传一个。iOS 没有 (cdma 手机请传 meid 码)                         |
 | device_oaid       | string  | 否   | 中国安全联盟定义的国内安卓设备唯一ID标识，iOS无需填写                |
 | device_adid       | string  | 否   | 安卓为 android id, ios 则为 idfa                                 |
 | device_openudid   | string  | 否   | 苹果设备唯一标识号; 安卓系统不必填写                                |
