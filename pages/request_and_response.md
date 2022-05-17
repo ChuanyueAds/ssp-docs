@@ -158,7 +158,7 @@ Request 请求是广告位请求广告的入口，由 App 按本文档中规定 
 | dn_inst_start      | array | 否   | 下载类广告，安装开始时上报 |
 | dn_inst_succ       | array | 否   | 下载类广告，安装成功时上报 |
 | dn_active          | array | 否   | 下载类广告，安装完成并打开应用时上报 |
-| deeplink_trackers        | string[]   |        | 否   | 吊起APP成功上报监测链接| 
+| deeplink_trackers        | string[]   |   否     |  吊起APP成功上报监测链接  | | 
 
 
  
